@@ -38,13 +38,13 @@
       .tech-stack span {
         display: inline-block;
         padding: 5px 10px;
-        background-color: #333;
+        background-color: #fff;
         color: #fff;
         border-radius: 5px;
       }
 
       .resume-button {
-  background-color: #4CAF50; /* Green */
+  background-color: #fff; /* White */
   border: none;
   color: white;
   padding: 15px 32px;
@@ -63,15 +63,17 @@
     <p>Currently I am working at Vaidhyamegha Private Limited as Software Developer II. Always Excited to learn and explore new things. </p>
     <!-- Add any HTML content you want to include -->
     <div class="tech-stack">
-        <h2>⚡ Tech Stack</h2>
+        <h2>⚡ Tech Stack</h2><br>
         <h3>Learning</h3>
         <ul>
         <li><i class="fab fa-aws"></i> Preparing for AWS Solution Architect</li>
           <li><i class="fab fa-react"></i> React.js</li>
           <li><i class="fas fa-database"></i> Jhipster</li>
         </ul>
+      <br>
       
-        <h3>Programming languages</h3>
+        <h3>Programming languages</h3>  <br>
+      
         <ul>
           <li><i class="devicon-c-plain"></i> C</li>
           <li><i class="devicon-python-plain"></i> Python</li>
@@ -81,15 +83,18 @@
           <li><i class="devicon-html5-plain"></i> HTML</li>
           
         </ul>
+        <br>
       
-        <h3>Frameworks and libraries</h3>
+        <h3>Frameworks and libraries</h3>  <br>
+      
         <ul>
           <li><i class="devicon-bootstrap-plain"></i> Bootstrap</li>
           <li><i class="devicon-github-plain"></i> GitHub Actions</li>
          
         </ul>
       
-        <h3>Databases and cloud hosting</h3>
+        <h3>Databases and cloud hosting</h3>  <br>
+      
         <ul>
             <li><i class="devicon-aws-plain"></i> AWS Services</li>
           <li><i class="devicon-github-plain"></i> GitHub Pages</li>
@@ -99,7 +104,8 @@
 
         </ul>
       
-        <h3>DataAnalytics Tools</h3>
+        <h3>DataAnalytics Tools</h3>  <br>
+      
         <ul>
             <li><i class="devicon-tableau-plain"></i> Tableau</li>
           <li><i class="devicon-quicksight-plain"></i> AWS Quicksight</li>
@@ -110,7 +116,8 @@
           <li><i class="devicon-git-plain"></i> Git</li>
           <li><i class="devicon-visualstudio-plain"></i> Visual Studio Code</li>
         </ul>
-      </div>
+      </div>  <br>
+      
       
       <button class="resume-button"><a href="Resume-Ashwini_S.pdf" download>Check out my resume here</a></button>
 
