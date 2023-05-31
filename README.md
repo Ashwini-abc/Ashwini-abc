@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+    <body>
   <head>
     <title>Ashwini S</title>
       </head>
@@ -59,7 +60,7 @@
 
     </style>
 
-  <body>
+
     <h1>Hello, I am Ashwini</h1>
     <p>Currently I am working at Vaidhyamegha Private Limited as Software Developer II. Always Excited to learn and explore new things. </p>
    <div class="tech-stack">
