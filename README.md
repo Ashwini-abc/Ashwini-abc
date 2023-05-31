@@ -6,7 +6,7 @@
     
 
 <div>
-    <h1>Hello, I am Ashwini</h1>
+    <h1>Hello, I am Ashwini 👋</h1>
     <p>Currently I am working at Vaidhyamegha Private Limited as Software Developer II. Always Excited to learn and explore new things. </p></div>
    <div class="tech-stack">
   <h2>⚡ Tech Stack</h2>
