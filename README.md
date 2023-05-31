@@ -1,64 +1,8 @@
 <!DOCTYPE html>
 <html>
     <body>
-  <head>
-    <title>Ashwini S</title>
-      </head>
-     <style>
-      /* Add any CSS styles you want to include */
-      body {
-        font-family: sans-serif;
-        background-color: #fff;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-      }
-      
-      h1 {
-        color: #333;
-      }
-      .tech-stack {
-        display: flex;
-        flex-wrap: wrap;
-      }
-      
-      .tech-stack li {
-        margin-right: 20px;
-      }
-      
-      .tech-stack li:last-child {
-        margin-right: 0;
-      }
-      
-      .tech-stack i {
-        font-size: 32px;
-        color: #333;
-        margin-right: 10px;
-      }
-      
-      .tech-stack span {
-        display: inline-block;
-        padding: 5px 10px;
-        background-color: #fff;
-        color: #fff;
-        border-radius: 5px;
-      }
 
-      .resume-button {
-  background-color: #fff; /* White */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-
-    </style>
+  
 
 
     <h1>Hello, I am Ashwini</h1>
