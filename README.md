@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Ashwini S</title>
+      </head>
      <style>
       /* Add any CSS styles you want to include */
       body {
@@ -57,7 +58,7 @@
 }
 
     </style>
-  </head>
+
   <body>
     <h1>Hello, I am Ashwini</h1>
     <p>Currently I am working at Vaidhyamegha Private Limited as Software Developer II. Always Excited to learn and explore new things. </p>
